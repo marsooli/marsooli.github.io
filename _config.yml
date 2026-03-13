@@ -27,9 +27,9 @@ author:
   name             : "Reza Marsooli"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Department of Civil, Environmental, and Ocean Engineering"
-  location         : "Hoboken, New Jersey"
   employer         : "Stevens Institute of Technology"
-  uri              : # URL
+  location         : "Hoboken, New Jersey"
+  uri              : "https://www.stevens.edu/profile/rmarsool"
   email            : "rmarsool@stevens.edu" 
 
   # Academic websites
