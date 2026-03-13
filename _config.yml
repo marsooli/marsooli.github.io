@@ -23,7 +23,7 @@ repository               : "marsooli/marsooli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/marsooli.jpg"
+  avatar           : "profile.png"
   name             : "Reza Marsooli"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Department of Civil, Environmental, and Ocean Engineering"
