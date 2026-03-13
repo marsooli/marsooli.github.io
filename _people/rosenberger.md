@@ -2,7 +2,7 @@
 name: Daniel Rosenberger
 position: MS (2020–2022)
 group: alumni
-image: /images/people/rosenberger.jpg
+image: /images/people/member.jpg
 ---
 
 First Career Placement: Civil Water Engineer at Arup, New York.
