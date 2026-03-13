@@ -1,6 +1,7 @@
 ---
 name: Daniel Rosenberger
 position: MS (2020–2022)
+group: alumni
 image: /images/people/rosenberger.jpg
 ---
 
