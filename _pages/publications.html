@@ -14,12 +14,10 @@ You can also find my articles on
 
 {% include base_path %}
 
-{% assign pubs = site.publications | reverse %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
 {% assign count = pubs | size %}
 
-<p>
 {% for post in pubs %}
-({{ count }}) <p>{{ post.citation }}</p>
+<p>({{ count }}) {{ post.citation }}</p>
 {% assign count = count | minus: 1 %}
 {% endfor %}
-</p>
