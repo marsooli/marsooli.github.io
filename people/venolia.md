@@ -1,6 +1,7 @@
 ---
 name: Maria Venolia
 position: PhD Candidate
+group: current
 image: /images/people/venolia.jpg
 ---
 
