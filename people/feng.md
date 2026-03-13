@@ -1,6 +1,7 @@
 ---
 name: Xiaotong Feng
 position: PhD Student
+group: current
 image: /images/people/feng.jpg
 ---
 
