@@ -1,6 +1,7 @@
 ---
 name: Erfan Amini
 position: PhD (2021–2025)
+group: alumni
 image: /images/people/amini.jpg
 ---
 
