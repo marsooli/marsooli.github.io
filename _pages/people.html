@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+
+{% for person in site.people %}
+<div class="grid__item">
+  <div style="text-align:center">
+    <img src="{{ person.image }}" style="width:160px;border-radius:10px;"><br>
+    <strong>{{ person.name }}</strong><br>
+    <em>{{ person.position }}</em>
+  </div>
+  <p>{{ person.content }}</p>
+</div>
+{% endfor %}
+
+</div>
