@@ -7,17 +7,80 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="grid__wrapper">
+<style>
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
 
-{% for person in site.people %}
-<div class="grid__item">
-  <div style="text-align:center">
-    <img src="{{ person.image }}" style="width:160px;border-radius:10px;"><br>
-    <strong>{{ person.name }}</strong><br>
-    <em>{{ person.position }}</em>
-  </div>
-  <p>{{ person.content }}</p>
+.person-card {
+  text-align: center;
+}
+
+.person-card img {
+  width: 180px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 0.75rem;
+}
+
+.person-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+
+.person-position {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.75rem;
+}
+
+.person-bio {
+  text-align: left;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+</style>
+
+<h2>Lab Director</h2>
+<div class="people-grid">
+  {% assign faculty_people = site.people | where: "group", "faculty" %}
+  {% for person in faculty_people %}
+    <div class="person-card">
+      <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+      <div class="person-name">{{ person.name }}</div>
+      <div class="person-position">{{ person.position }}</div>
+      <div class="person-bio">{{ person.content }}</div>
+    </div>
+  {% endfor %}
 </div>
-{% endfor %}
 
+<h2>Current Graduate Students</h2>
+<div class="people-grid">
+  {% assign current_people = site.people | where: "group", "current" %}
+  {% for person in current_people %}
+    <div class="person-card">
+      <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+      <div class="person-name">{{ person.name }}</div>
+      <div class="person-position">{{ person.position }}</div>
+      <div class="person-bio">{{ person.content }}</div>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Former Graduate Students</h2>
+<div class="people-grid">
+  {% assign alumni_people = site.people | where: "group", "alumni" %}
+  {% for person in alumni_people %}
+    <div class="person-card">
+      <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+      <div class="person-name">{{ person.name }}</div>
+      <div class="person-position">{{ person.position }}</div>
+      <div class="person-bio">{{ person.content }}</div>
+    </div>
+  {% endfor %}
 </div>
