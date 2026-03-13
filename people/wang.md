@@ -1,6 +1,7 @@
 ---
 name: Yifan Wang
 position: PhD (2019–2022)
+group: alumni
 image: /images/people/wang.jpg
 ---
 
