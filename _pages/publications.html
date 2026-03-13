@@ -15,9 +15,7 @@ You can also find my articles on
 {% include base_path %}
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
-{% assign count = pubs | size %}
 
 {% for post in pubs %}
-<p>({{ count }}) {{ post.citation }}</p>
-{% assign count = count | minus: 1 %}
+<p>{{ post.citation }}</p>
 {% endfor %}
