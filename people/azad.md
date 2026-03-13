@@ -1,6 +1,7 @@
 ---
 name: Alauddin Al Azad
 position: PhD Candidate
+group: current
 image: /images/people/azad.jpg
 ---
 
