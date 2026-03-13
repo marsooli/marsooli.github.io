@@ -9,10 +9,10 @@
 
 main:
   - title: "Research"
-    url: /Research/ 
+    url: /research/ 
 
   - title: "People"
-    url: /People/ 
+    url: /people/ 
 
   - title: "Publications"
     url: /publications/ 
