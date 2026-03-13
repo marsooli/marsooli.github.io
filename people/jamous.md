@@ -1,6 +1,7 @@
 ---
 name: Mohammad Jamous
 position: PhD (2019–2023)
+group: alumni
 image: /images/people/jamous.jpg
 ---
 
