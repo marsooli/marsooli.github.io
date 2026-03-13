@@ -1,6 +1,7 @@
 ---
 name: Reza Marsooli
 position: Lab Director
+group: faculty
 image: /images/people/marsooli.jpg
 ---
 
