@@ -1,6 +1,7 @@
 ---
 name: Serine Razika Ziadi
 position: PhD Student
+group: current
 image: /images/people/ziadi.jpg
 ---
 
