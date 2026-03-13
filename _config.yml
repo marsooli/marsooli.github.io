@@ -236,7 +236,6 @@ collections:
   people:
     output: false
 
-
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
