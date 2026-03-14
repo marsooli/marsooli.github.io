@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Department of Civil, Environmental, and Ocean Engineering"
   employer         : "Stevens Institute of Technology"
-  location         : "Hoboken, New Jersey"
+  location         : # "Hoboken, New Jersey"
   uri              : "https://www.stevens.edu/profile/rmarsool"
   email            : "rmarsool@stevens.edu" 
 
