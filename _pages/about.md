@@ -11,7 +11,7 @@ We investigate emerging challenges in coastal engineering and coastal physical o
 
 ![Stevens Institute of Technology overlooking the Manhattan skyline](/images/stevens-skyline.jpg)
 
-The Marsooli Research Lab is part of the Civil and Ocean Engineering programs in the **Department of Civil, Environmental, and Ocean Engineering at Stevens Institute of Technology**, which is located in **Hoboken, New Jersey**, just a 10-minute subway ride from **New York City**. The Stevens campus overlooks the Hudson River and the Manhattan skyline, providing a unique and inspiring environment for research and education.
+The Marsooli Research Lab is part of the Civil and Ocean Engineering programs in the **Department of Civil, Environmental, and Ocean Engineering at Stevens Institute of Technology**, which is located in Hoboken, New Jersey, just a 10-minute subway ride from New York City. The Stevens campus overlooks the Hudson River and the Manhattan skyline, providing a unique and inspiring environment for research and education.
 
 Founded in 1870, Stevens is one of the **oldest technological universities in the United States** and is well known for its strong programs in engineering, science, and management. Stevens consistently ranks among the top institutions in the nation for **career placement and salary potential** for its graduates.
 
