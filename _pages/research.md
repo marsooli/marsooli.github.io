@@ -16,7 +16,7 @@ Our research spans multiple spatial and temporal scales - from street-level floo
 
 ## Coastal Flood Risk
 
-![Coastal flooding](/images/Research_Theme/flood-risk.png)
+![Coastal flooding](/images/ResearchTheme/flood-risk.png)
 
 This research theme focuses on advancing the understanding and prediction of evolving coastal flood risks across a range of spatial and temporal scales.
 
@@ -28,7 +28,7 @@ Through a combination of physics-based modeling, statistical analysis, and AI-dr
 
 ## Nature-Based Solutions for Coastal Hazard Adaptation
 
-![Nature-based solutions](/images/Research_Theme/nature-based.png)
+![Nature-based solutions](/images/ResearchTheme/nature-based.png)
 
 Nature-based solutions are increasingly recognized as an important strategy for mitigating coastal hazards.
 
@@ -40,7 +40,7 @@ We also investigate hybrid coastal protection systems, such as vegetation–seaw
 
 ## Coastal Processes
 
-![Coastal processes](/images/Research_Theme/coastal-processes.png)
+![Coastal processes](/images/ResearchTheme/coastal-processes.png)
 
 Understanding coastal hazards requires a strong foundation in the fundamental processes that shape the coastal ocean and shoreline.
 
