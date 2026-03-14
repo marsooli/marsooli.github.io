@@ -14,7 +14,7 @@ Our research spans various temporal and spatial scales - from storm- and street-
 
 ---
 
-## Coastal Flood Risk
+## Research Theme: Coastal Flood Risk
 
 ![Coastal flooding](/images/ResearchTheme/flood_risk.png)
 
@@ -22,7 +22,7 @@ This research theme focuses on advancing the understanding and prediction of evo
 
 ---
 
-## Nature-Based Solutions for Coastal Hazard Adaptation
+## Research Theme: Nature-Based Solutions for Coastal Hazard Adaptation
 
 ![Nature-based solutions](/images/ResearchTheme/nature_based.png)
 
@@ -30,7 +30,7 @@ Nature-based solutions are increasingly recognized as an important strategy for 
 
 ---
 
-## Coastal Processes
+## Research Theme: Coastal Processes
 
 ![Coastal processes](/images/ResearchTheme/coastal_processes.png)
 
