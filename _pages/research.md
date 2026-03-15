@@ -6,7 +6,7 @@ author_profile: true
 
 ## Overview
 
-Research in the Marsooli Research Lab lies at the intersection of **coastal engineering** and **physical coastal oceanography**. We aim to improve the understanding and prediction of coastal hazards and processes by integrating theory, observations, and advanced computational modeling.
+We conduct research in the fields of **coastal engineering** and **physical coastal oceanography**. Our research studies aim to improve the understanding and prediction of coastal hazards and processes by integrating theory, observations, and advanced computational modeling.
 
 Our work mainly relies on state-of-the-art numerical models, including **ADCIRC, SCHISM, SWAN, XBeach, SFINCS, among other models**, to simulate coastal ocean dynamics, waves, storm surge, coastal flooding, and shoreline evolution. These physics-based models are complemented by statistical and AI approaches, which we develop to improve prediction, accelerate simulations, and extract insights from large datasets.
 
