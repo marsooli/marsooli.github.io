@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Research Overview
+## Overview
 
 Research in the Marsooli Research Lab lies at the intersection of **coastal engineering** and **physical coastal oceanography**. We aim to improve the understanding and prediction of coastal hazards and processes by integrating theory, observations, and advanced computational modeling.
 
